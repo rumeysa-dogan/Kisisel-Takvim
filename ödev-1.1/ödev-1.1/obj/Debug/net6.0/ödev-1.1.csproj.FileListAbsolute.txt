@@ -1,0 +1,14 @@
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.AssemblyInfoInputs.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.AssemblyInfo.cs
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.csproj.CoreCompileInputs.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\bin\Debug\net6.0\ödev-1.1.exe
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\bin\Debug\net6.0\ödev-1.1.deps.json
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\bin\Debug\net6.0\ödev-1.1.runtimeconfig.json
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\bin\Debug\net6.0\ödev-1.1.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\bin\Debug\net6.0\ödev-1.1.pdb
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\refint\ödev-1.1.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.pdb
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ödev-1.1.genruntimeconfig.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\ödev-1.1\ödev-1.1\obj\Debug\net6.0\ref\ödev-1.1.dll

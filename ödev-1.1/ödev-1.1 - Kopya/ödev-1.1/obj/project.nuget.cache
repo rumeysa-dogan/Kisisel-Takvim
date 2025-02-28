@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnwujQhk2CsRAvImGYWs1B8YR45HsnyCS5VlZtGP3A50ls2oZOJFLSg6l3ttdqHiWHB0TT+fIZ8mTTLj8DdkEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VİCTUS\\OneDrive\\Masaüstü\\ödev-1.1 - Kopya\\ödev-1.1\\ödev-1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VİCTUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\VİCTUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\VİCTUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\VİCTUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
